@@ -19,6 +19,6 @@
 ### Screenshots:
 
 ![Dashboard](https://github.com/Purva201/Login2Xplore/blob/main/Dashboard%20JsonPowerDB.jpeg)
-![Student Enrollment Form]()
+![Student Enrollment Form](https://github.com/Purva201/Login2Xplore/blob/main/Student%20Enrollment%20Form.jpeg)
 
 
